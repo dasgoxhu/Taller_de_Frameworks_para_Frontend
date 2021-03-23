@@ -1,0 +1,41 @@
+body{
+	background-color:#1E1E1E
+}
+.Psuperior{
+    background-color:#000000
+}
+#Logo1{
+	width: 40px;	
+}
+#colum1{
+	background-color:#000000;
+	color:#FFFFFF
+}
+#colum2{
+	background-color:#000000;
+	color:#FFFFFF
+}
+#MS{ 
+	margin-left: 25%;
+}
+.M{
+	margin-left: 1%
+}
+#MS1{
+	margin-left: 38%;
+}
+#MS2{
+	margin-left: 40%;
+}
+.Final{
+	float:left; background: #000000; color:#7A7A7A; height: 100%; width: 100%; text-align: center
+}
+h1{
+	color: #FFFFFF
+}
+h2{
+	color: #FFFFFF
+}
+a{
+	color: #FFFFFF
+}
